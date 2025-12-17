@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, java, and anything else that peaks my interest.
 - 💞️ I’m looking to collaborate on anything really. I just don't know what it is I can do for these sorts of things. 
 - 📫 How to reach me: frostedbrownie@pm.me
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I have a huge obsession with random things, periodically. Today's obesession is Magic: The Gathering.
 
 <!---
 FrostedBrownie/FrostedBrownie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
